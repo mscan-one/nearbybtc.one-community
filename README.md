@@ -1,2 +1,4 @@
-# nearbybtc.one-community
-Nearbybtc.one community discussion
+# 附近的比特币 | 🌍 社区
+
+1. 报 bug 或功能建议请创建 issue
+
